@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+*.csv
+*sauvegarde*.json
+*.zip
+*.tar.gz
+publish-source.py
+upgrade.py
+.openai/
